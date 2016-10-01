@@ -138,5 +138,5 @@ searches.vars <- c("Date", # Date
 writeLines(searches.vars,con="searches_vars.csv")
 
 ## ==============================================================
-## Last modified on 23 Apr 2016. Minh Phan.
+## Last modified on 23 Apr 2016. Tan Tran.
 ## ==============================================================
