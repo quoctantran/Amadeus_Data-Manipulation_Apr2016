@@ -191,5 +191,5 @@ cat(x) # Print out to check JSON file
 writeLines(x,"results/q5_topN_arr_port_JSON.json")
 
 ## ==============================================================
-## Last modified on 23 Apr 2016. Minh Phan.
+## Last modified on 23 Apr 2016. Tan Tran.
 ## ==============================================================
